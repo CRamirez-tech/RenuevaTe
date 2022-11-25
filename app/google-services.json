@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "596277359102",
+    "project_id": "renuevate-b2072",
+    "storage_bucket": "renuevate-b2072.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596277359102:android:059afdbb7e4b77061610af",
+        "android_client_info": {
+          "package_name": "com.cnameless.renuevate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596277359102-ff48t1oak6kvjirbtfq4b6so5luvteqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEYNkLeWLDNrTDDBRmydQw4Hg9JhC3GUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596277359102-ff48t1oak6kvjirbtfq4b6so5luvteqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
